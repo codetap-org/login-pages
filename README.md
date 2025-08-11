@@ -2,13 +2,16 @@
 
 This repository contains a collection of HTML, CSS, and JavaScript Login Pages.
 
-|  #  | Login Page                                                                                                            | Live Demo                                                                              |
-| :-: | --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| 01  | [Lamp Glassmorphism Login](https://github.com/codetap-org/login-pages/tree/main/lamp-login-page)                      | [Live Demo](https://codetap-org.github.io/login-pages/lamp-login-page/)                |
-| 02  | [Glassmorphism Login Page](https://github.com/codetap-org/login-pages/tree/main/glassmorphism-login-page)             | [Live Demo](https://codetap-org.github.io/login-pages/glassmorphism-login-page/)       |
-| 03  | [Dark Login Form](https://github.com/codetap-org/login-pages/tree/main/dark-login-form)                               | [Live Demo](https://codetap-org.github.io/login-pages/dark-login-form/)                |
-| 04  | [Animated Login Form](https://github.com/codetap-org/login-pages/tree/main/animated-login-form)                       | [Live Demo](https://codetap-org.github.io/login-pages/animated-login-form/)            |
-| 05  | [Rube Goldberg Form](https://github.com/codetap-org/login-pages/tree/main/rube-goldberg-login-form)                   | [Live Demo](https://codetap-org.github.io/login-pages/rube-goldberg-login-form/)       |
-| 06  | [Legend Login Form](https://github.com/codetap-org/login-pages/tree/main/legend-login-form)                           | [Live Demo](https://codetap-org.github.io/login-pages/legend-login-form/)              |
-| 07  | [Glassmorphism Login](https://github.com/codetap-org/login-pages/tree/main/glassmorphism-login)                       | [Live Demo](https://codetap-org.github.io/login-pages/glassmorphism-login/)            |
-| 08  | [Animated login and signup form](https://github.com/codetap-org/login-pages/tree/main/Animated-login-and-signup-form) | [Live Demo](https://codetap-org.github.io/login-pages/Animated-login-and-signup-form/) |
+|  #  | Login Page                                                                                                          | Live Demo                                                                                 |
+| :-: | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| 01  | [Animated Login Form](https://github.com/codetap-org/login-pages/tree/main/01-Animated-Login-Form)                  | [Live Demo](https://codetap-org.github.io/login-pages/01-Animated-Login-Form/)            |
+| 02  | [Animated Login and Signup](https://github.com/codetap-org/login-pages/tree/main/02-Animated-Login-And-Signup-Form) | [Live Demo](https://codetap-org.github.io/login-pages/02-Animated-Login-And-Signup-Form/) |
+| 03  | [Animated Login Form](https://github.com/codetap-org/login-pages/tree/main/03-Animated-Login-Form)                  | [Live Demo](https://codetap-org.github.io/login-pages/03-Animated-Login-Form/)            |
+| 04  | [Dark Login Form](https://github.com/codetap-org/login-pages/tree/main/04-Dark-Login-Form)                          | [Live Demo](https://codetap-org.github.io/login-pages/04-Dark-Login-Form/)                |
+| 05  | [Glassmorphism Leaf Login](https://github.com/codetap-org/login-pages/tree/main/05-Glassmorphism-Leaf-Login)        | [Live Demo](https://codetap-org.github.io/login-pages/05-Glassmorphism-Leaf-Login/)       |
+| 06  | [Glassmorphism Login Form](https://github.com/codetap-org/login-pages/tree/main/06-Glassmorphism-Login)             | [Live Demo](https://codetap-org.github.io/login-pages/06-Glassmorphism-Login/)            |
+| 07  | [Glassmorphism Login Form](https://github.com/codetap-org/login-pages/tree/main/07-Glassmorphism-Login)             | [Live Demo](https://codetap-org.github.io/login-pages/07-Glassmorphism-Login/)            |
+| 08  | [Glassmorphism Login Form](https://github.com/codetap-org/login-pages/tree/main/08-Glassmorphism-Login)             | [Live Demo](https://codetap-org.github.io/login-pages/08-Glassmorphism-Login/)            |
+| 09  | [Lamp Login Form](https://github.com/codetap-org/login-pages/tree/main/09-Lamp-Login-Page)                          | [Live Demo](https://codetap-org.github.io/login-pages/09-Lamp-Login-Page/)                |
+| 10  | [Legend Login Form](https://github.com/codetap-org/login-pages/tree/main/10-Legend-Login-Page)                      | [Live Demo](https://codetap-org.github.io/login-pages/10-Legend-Login-Page/)              |
+| 11  | [Rube Golderg Login Form](https://github.com/codetap-org/login-pages/tree/main/11-Rube-Goldberg-Login)              | [Live Demo](https://codetap-org.github.io/login-pages/11-Rube-Goldberg-Login/)            |
