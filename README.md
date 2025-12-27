@@ -22,3 +22,4 @@ This repository contains a collection of HTML, CSS, and JavaScript Login Pages.
 | 16  | [Login and Sign Up Form](https://github.com/codetap-org/login-pages/tree/main/16-Login-and-Sign-Up-Form)            | [Live Demo](https://codetap-org.github.io/login-pages/16-Login-and-Sign-Up-Form/)         |
 | 17  | [Login Form](https://github.com/codetap-org/login-pages/tree/main/17-Login-Form)                                    | [Live Demo](https://codetap-org.github.io/login-pages/17-Login-Form/)                     |
 | 18  | [Glassmorphishm Login Form](https://github.com/codetap-org/login-pages/tree/main/18-Glassmorphishm-Login-Form)      | [Live Demo](https://codetap-org.github.io/login-pages/18-Glassmorphishm-Login-Form/)      |
+| 19  | [Glowing Light Login Form](https://github.com/codetap-org/login-pages/tree/main/19-Glowing-Light-Login-Form)        | [Live Demo](https://codetap-org.github.io/login-pages/19-Glowing-Light-Login-Form/)       |
